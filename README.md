@@ -1,2 +1,1 @@
-# logos
-A repo for images
+A curated collection of logos for use elsewhere.
